@@ -23,7 +23,7 @@ If you have multiple bugs or requests that are not closely related, please separ
 
 # How to get support
 
-If you want help on using Typora, first search the [Support Site (NOT IMPLEMENTED, PLEASE TAKE A LOOK AT STEP TWO)](#). 
+If you want help on using AtlasFN, first search the [Support Site (NOT IMPLEMENTED, PLEASE TAKE A LOOK AT STEP TWO)](#). 
 
 If you can't find what you need there, follow the steps above for reporting a bug. It is ok to use the Issues database to ask a question. You may also email us if you prefer. 
 <!---
