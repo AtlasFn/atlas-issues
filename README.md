@@ -6,7 +6,7 @@ Atlas is open source software, and will always be free. [AltasFN on GitHub](http
 
 # The AtlasFN Issues Repo
 
-The repo you are looking at is the Atlas Issues Repo. It exists as a public forum to gather users' feedback and discussions on bugs, missing features or desired enhancements. For questions on how to use Atlas, or any issues you are experiencing, see [How to find support](#how-to-find-support).
+The repo you are looking at is the Atlas Issues Repo. It exists as a public forum to gather users' feedback and discussions on bugs, missing features or desired enhancements. For questions on how to use Atlas, or any issues you are experiencing, see [How to get support](#how-to-get-support).
 
 While you can use email to send bug reports or suggestions, I and the AtlasFN community prefer you use this public forum for the sake of transparency and efficiency.  
 
